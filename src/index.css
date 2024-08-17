@@ -98,7 +98,7 @@
 }
 /* ----------------------------------- */
 .widget{
-  height: 200px;
+  height: 250px;
   width: 370px;
 }
 .header_widget{
@@ -106,7 +106,11 @@
     border-radius: 12px;
     padding: 8px 10px;
 }
-.refresh_icon{
-  background-color: lightgray;
-  padding: 6px;
+.border_icon{
+  border: 1px solid lightgray;
+  padding: 10px
+}
+
+.form-group{
+  width: 400px;
 }
